@@ -60,7 +60,7 @@ steam-market-price-alert/
 
 ---
 ## ✦ Dosyaları indirin.
-bash```
+```bash
 git clone https://github.com/leoniofficials/Steam-Fiyat-Takip
 ```
 ---
