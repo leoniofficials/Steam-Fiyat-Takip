@@ -98,6 +98,7 @@ python uyari.py
 ```bash
 https://steamcommunity.com/market/listings/730/Kilowatt%20Case
 ```
+Takip etmek istediğiniz itemi & eşyayı, google'da veya steamde açıp urlsini kopyalayın.  
 ---
 
 **Takip başlatıldıktan sonra:**
