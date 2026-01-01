@@ -56,7 +56,7 @@ steam-market-price-alert/
 ```
 ## ✦ Canlı Demo
 ```bash
-screenshots/demo.gif
+![Canlı Demo](screenshots/demo.gif)
 ```
 ---
 ## ✦ Kodları Düzenleyin.
@@ -67,7 +67,7 @@ DISCORD_USER_ID = "DISCORD_USERID_BURAYA_GIRILECEK"
 --- 
 ## ✦ WEBHOOK ve DISCORD USER ID Nasıl Alınır?
 ```bash
-screenshots/webhook.gif
+![Webhook Rehberi](screenshots/webhook.gif)
 ```
 ---
 ## ✦ Gerekli Dosyaları Yükleyin
