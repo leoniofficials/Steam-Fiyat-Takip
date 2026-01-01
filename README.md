@@ -59,12 +59,23 @@ steam-market-price-alert/
 ![Canlı Demo](screenshots/demo.gif)
 
 ---
-## ✦ Dosyaları indirin.
+## ✦ Dosyaları indirin
 ```bash
 git clone https://github.com/leoniofficials/Steam-Fiyat-Takip
 ```
 ---
-## ✦ Kodları Düzenleyin.
+## ✦ Dosyayı açın.
+```bash
+cd Steam-Fiyat-Takip
+```
+```bash
+explorer . 
+```
+```bash
+uyari.py dosyasını açın.
+```
+---
+## ✦ Kodları Düzenleyin
 ```bash
 WEBHOOK_URL = "DISCORD_HOOK_BURAYA_GIRILECEK"
 DISCORD_USER_ID = "DISCORD_USERID_BURAYA_GIRILECEK"
