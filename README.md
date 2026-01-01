@@ -51,13 +51,23 @@ steam-market-price-alert/
 ├── .gitignore
 ├── LICENSE
 └── screenshots/
-    ├── logo.png
-    ├── canli.gif
-    └── canli2.png
+    ├── demo.gif
+    ├── webhook.gif
 ```
 ## ✦ Canlı Demo
 ```bash
 screenshots/demo.gif
+```
+---
+## ✦ Kodları Düzenleyin.
+```bash
+WEBHOOK_URL = "DISCORD_HOOK_BURAYA_GIRILECEK"
+DISCORD_USER_ID = "DISCORD_USERID_BURAYA_GIRILECEK"
+```
+--- 
+## ✦ WEBHOOK ve DISCORD USER ID Nasıl Alınır?
+```bash
+screenshots/webhook.gif
 ```
 ---
 ## ✦ Gerekli Dosyaları Yükleyin
